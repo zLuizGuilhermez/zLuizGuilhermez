@@ -5,3 +5,11 @@
   </a>
 </h1>
 
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,js,java,vscode,github,clion,idea,mysql,r" />
+   
+</div>
