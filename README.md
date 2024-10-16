@@ -11,5 +11,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,js,java,vscode,github,clion,idea,mysql,r" />
+    <img src="https://skillicons.dev/icons?i=typescript" />
    
 </div>
