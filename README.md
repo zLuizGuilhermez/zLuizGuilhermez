@@ -18,6 +18,6 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,python,vscode,github,clion,idea,mysql,js" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,vscode,github,clion,idea,mysql,js,c#" />
     <img src="https://skillicons.dev/icons?i=typescript" />
 </div>
